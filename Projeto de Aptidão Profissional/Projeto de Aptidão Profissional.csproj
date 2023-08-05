@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B84E53A5-08F4-4828-8444-B4AE46187954}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projeto_de_Aptidão_Profissional</RootNamespace>
+    <AssemblyName>Projeto de Aptidão Profissional</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Carrinho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Carrinho.Designer.cs">
+      <DependentUpon>Carrinho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componentes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componentes.Designer.cs">
+      <DependentUpon>Componentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_Caixa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_Caixa.Designer.cs">
+      <DependentUpon>Componente_Caixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_Cooler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_Cooler.Designer.cs">
+      <DependentUpon>Componente_Cooler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_DiscoRigido.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_DiscoRigido.Designer.cs">
+      <DependentUpon>Componente_DiscoRigido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_Fonte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_Fonte.Designer.cs">
+      <DependentUpon>Componente_Fonte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_LeitorCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_LeitorCD.Designer.cs">
+      <DependentUpon>Componente_LeitorCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_MotherBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_MotherBoard.Designer.cs">
+      <DependentUpon>Componente_MotherBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_PlacaGrafica.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_PlacaGrafica.Designer.cs">
+      <DependentUpon>Componente_PlacaGrafica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_PlacaRede.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_PlacaRede.Designer.cs">
+      <DependentUpon>Componente_PlacaRede.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_Processador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_Processador.Designer.cs">
+      <DependentUpon>Componente_Processador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Componente_RAM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Componente_RAM.Designer.cs">
+      <DependentUpon>Componente_RAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Computadores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Computadores.Designer.cs">
+      <DependentUpon>Computadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Configurador.Designer.cs">
+      <DependentUpon>Configurador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurador2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Configurador2.Designer.cs">
+      <DependentUpon>Configurador2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Conta.Designer.cs">
+      <DependentUpon>Conta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamentos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Equipamentos.Designer.cs">
+      <DependentUpon>Equipamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamento_Cadeiras.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Equipamento_Cadeiras.Designer.cs">
+      <DependentUpon>Equipamento_Cadeiras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamento_Colunas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Equipamento_Colunas.Designer.cs">
+      <DependentUpon>Equipamento_Colunas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamento_HeadSetFones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Equipamento_HeadSetFones.Designer.cs">
+      <DependentUpon>Equipamento_HeadSetFones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamento_Monitores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Equipamento_Monitores.Designer.cs">
+      <DependentUpon>Equipamento_Monitores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamento_PenCartoes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Equipamento_PenCartoes.Designer.cs">
+      <DependentUpon>Equipamento_PenCartoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamento_Ratos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Equipamento_Ratos.Designer.cs">
+      <DependentUpon>Equipamento_Ratos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamento_Tapetes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Equipamento_Tapetes.Designer.cs">
+      <DependentUpon>Equipamento_Tapetes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipamento_Teclados.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Equipamento_Teclados.Designer.cs">
+      <DependentUpon>Equipamento_Teclados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informação.cs" />
+    <Compile Include="Definições.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Definições.Designer.cs">
+      <DependentUpon>Definições.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FLayout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLayout.Designer.cs">
+      <DependentUpon>FLayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PC_Fixos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PC_Fixos.Designer.cs">
+      <DependentUpon>PC_Fixos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PC_Portateis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PC_Portateis.Designer.cs">
+      <DependentUpon>PC_Portateis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp.Designer.cs">
+      <DependentUpon>PopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUpMulti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUpMulti.Designer.cs">
+      <DependentUpon>PopUpMulti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Carrinho.resx">
+      <DependentUpon>Carrinho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componentes.resx">
+      <DependentUpon>Componentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_Caixa.resx">
+      <DependentUpon>Componente_Caixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_Cooler.resx">
+      <DependentUpon>Componente_Cooler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_DiscoRigido.resx">
+      <DependentUpon>Componente_DiscoRigido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_Fonte.resx">
+      <DependentUpon>Componente_Fonte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_LeitorCD.resx">
+      <DependentUpon>Componente_LeitorCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_MotherBoard.resx">
+      <DependentUpon>Componente_MotherBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_PlacaGrafica.resx">
+      <DependentUpon>Componente_PlacaGrafica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_PlacaRede.resx">
+      <DependentUpon>Componente_PlacaRede.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_Processador.resx">
+      <DependentUpon>Componente_Processador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componente_RAM.resx">
+      <DependentUpon>Componente_RAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Computadores.resx">
+      <DependentUpon>Computadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurador.resx">
+      <DependentUpon>Configurador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurador2.resx">
+      <DependentUpon>Configurador2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conta.resx">
+      <DependentUpon>Conta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Definições.resx">
+      <DependentUpon>Definições.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipamentos.resx">
+      <DependentUpon>Equipamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipamento_Cadeiras.resx">
+      <DependentUpon>Equipamento_Cadeiras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipamento_Colunas.resx">
+      <DependentUpon>Equipamento_Colunas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipamento_HeadSetFones.resx">
+      <DependentUpon>Equipamento_HeadSetFones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipamento_Monitores.resx">
+      <DependentUpon>Equipamento_Monitores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipamento_PenCartoes.resx">
+      <DependentUpon>Equipamento_PenCartoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipamento_Ratos.resx">
+      <DependentUpon>Equipamento_Ratos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipamento_Tapetes.resx">
+      <DependentUpon>Equipamento_Tapetes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipamento_Teclados.resx">
+      <DependentUpon>Equipamento_Teclados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLayout.resx">
+      <DependentUpon>FLayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PC_Fixos.resx">
+      <DependentUpon>PC_Fixos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PC_Portateis.resx">
+      <DependentUpon>PC_Portateis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUpMulti.resx">
+      <DependentUpon>PopUpMulti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp.resx">
+      <DependentUpon>PopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pic_Portateis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pic_Fixos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cor Vermelha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagem de fundo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagem de fundo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagem de fundo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Triangulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Triangulo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triangulo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triagulo definitivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seta vermelha branca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Triagulo DEF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Triglo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagens-bem-vindo-20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagem.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boneco-certo-300x300.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

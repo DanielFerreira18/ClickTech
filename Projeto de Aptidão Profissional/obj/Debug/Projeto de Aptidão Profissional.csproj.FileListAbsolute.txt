@@ -1,0 +1,196 @@
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe.config
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.pdb
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Properties.Resources.resources
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.GenerateResource.Cache
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.CoreCompileInputs.cache
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.exe
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.pdb
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.FLayout.resources
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csprojResolveAssemblyReference.cache
+D:\Daniel\Trabalho\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Definições.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe.config
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.pdb
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Definições.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.FLayout.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Loading.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Login.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.GenerateResource.Cache
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.exe
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.pdb
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Computadores.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Conta.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Home.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Carrinho.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componentes.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Configurador.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Configurador2.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamentos.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PopUp.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PopUpMulti.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PC_Portateis.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PC_Fixos.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Caixa.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Cooler.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_DiscoRigido.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Fonte.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_LeitorCD.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_MotherBoard.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_PlacaGrafica.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_PlacaRede.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Processador.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_RAM.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Cadeiras.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Colunas.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_HeadSetFones.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Monitores.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_PenCartoes.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Ratos.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Tapetes.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Teclados.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Properties.Resources.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\MySql.Data.dll
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\MySql.Data.xml
+C:\Users\Daniel Ferreira\Desktop\Daniel\Programação\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Clientes.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe.config
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.pdb
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\MySql.Data.xml
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csprojResolveAssemblyReference.cache
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Carrinho.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Clientes.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componentes.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Caixa.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Cooler.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_DiscoRigido.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Fonte.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_LeitorCD.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_MotherBoard.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_PlacaGrafica.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_PlacaRede.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Processador.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_RAM.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Computadores.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Configurador.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Configurador2.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Conta.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Definições.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamentos.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Cadeiras.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Colunas.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_HeadSetFones.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Monitores.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_PenCartoes.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Ratos.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Tapetes.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Teclados.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.FLayout.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Home.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Loading.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Login.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PC_Fixos.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PC_Portateis.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PopUpMulti.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PopUp.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Properties.Resources.resources
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.GenerateResource.cache
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.CoreCompileInputs.cache
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.CopyComplete
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.exe
+F:\Guardar\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.pdb
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe.config
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.pdb
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\MySql.Data.xml
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csprojAssemblyReference.cache
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Carrinho.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Clientes.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componentes.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Caixa.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Cooler.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_DiscoRigido.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Fonte.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_LeitorCD.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_MotherBoard.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_PlacaGrafica.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_PlacaRede.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Processador.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_RAM.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Computadores.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Configurador.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Configurador2.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Conta.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Definições.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamentos.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Cadeiras.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Colunas.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_HeadSetFones.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Monitores.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_PenCartoes.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Ratos.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Tapetes.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Teclados.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.FLayout.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Home.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Loading.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Login.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PC_Fixos.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PC_Portateis.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PopUpMulti.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PopUp.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Properties.Resources.resources
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.GenerateResource.cache
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.CopyComplete
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.exe
+C:\Users\Daniel Ferreira\Desktop\Daniel\C#\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.pdb
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe.config
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.exe
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\Projeto de Aptidão Profissional.pdb
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\bin\Debug\MySql.Data.xml
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Carrinho.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Clientes.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componentes.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Caixa.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Cooler.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_DiscoRigido.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Fonte.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_LeitorCD.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_MotherBoard.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_PlacaGrafica.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_PlacaRede.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_Processador.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Componente_RAM.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Computadores.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Configurador.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Configurador2.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Conta.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Definições.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamentos.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Cadeiras.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Colunas.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_HeadSetFones.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Monitores.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_PenCartoes.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Ratos.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Tapetes.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Equipamento_Teclados.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.FLayout.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Home.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Loading.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Login.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PC_Fixos.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PC_Portateis.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PopUpMulti.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.PopUp.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto_de_Aptidão_Profissional.Properties.Resources.resources
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.GenerateResource.cache
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.CopyComplete
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.exe
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.pdb
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Programação\Projeto de Aptidão Profissional\Projeto de Aptidão Profissional\obj\Debug\Projeto de Aptidão Profissional.csproj.SuggestedBindingRedirects.cache
